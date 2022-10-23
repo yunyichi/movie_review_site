@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\public",
+    "\\frontend\\src",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\services"
+  ],
+  "SelectedNode": "\\frontend\\src\\components\\movies-list.js",
+  "PreviewInSolutionExplorer": false
+}
